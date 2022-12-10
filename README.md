@@ -1,5 +1,5 @@
 # keylogger
-Simple Hook-Based keylogger. Use it for whatever you want.
+Simple Hook-Based keylogger. Use it for whatever you want, whether benevolent or malevolent :). Just don't think we have any liability, as this is MIT licensed.
 
 Contributors:
 
